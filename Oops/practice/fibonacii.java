@@ -2,7 +2,7 @@ package practice;
 public class fibonacii{
     public  static void fibo(int a,int b,int n){
         if(n==0){
-            return ;
+            return;
         }
         int c=a+b;
         System.out.println(c);
